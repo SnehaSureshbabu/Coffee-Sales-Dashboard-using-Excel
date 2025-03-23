@@ -21,33 +21,9 @@ The Coffee Sales Dashboard is an interactive Excel dashboard that provides insig
 Microsoft Excel – Data processing and dashboard creation.
 
 
-📥 Dataset
-
-Order Date | Product Type | Sales Revenue | Customers | Country
-
-
-🚀 How to Use
-
-1. Open the Excel file (.xlsx).
-
-
-2. Use the filters and charts to explore sales insights.
-
-
-3. Replace or update the dataset for custom analysis.
-
-
-
-📷 Preview
-
-![Dashboard Screenshot](Add Screenshot URL Here)
-
 📩 Contact
 
-📧 [Your Email] | 🌐 [Your Portfolio] | 💼 [LinkedIn]
+📧 snehasureshbabu6@gmail.com | 🌐 | 
+💼 https://www.linkedin.com/in/sneha-sureshbabu-0b724a238
 
-
----
-
-Let me know if you need any further edits!
 
