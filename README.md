@@ -3,71 +3,51 @@
 
 📌 Overview
 
-The Coffee Sales Dashboard is an interactive Power BI dashboard that provides insights into coffee sales performance. It analyzes total sales, top customers, and country-wise sales, helping businesses make data-driven decisions to optimize sales and inventory.
+The Coffee Sales Dashboard is an interactive Excel dashboard that provides insights into coffee sales performance. It analyzes total sales, top customers, and country-wise sales, helping businesses make data-driven decisions to optimize sales and inventory.
 
 🔹 Features
 
-📊 Total Sales Analysis – Tracks sales trends over time.
+📊 Sales Trends – Analyze total sales over time.
 
-🌍 Sales by Country – Insights into revenue distribution across regions.
+🌍 Sales by Country – Identify revenue distribution across regions.
 
-🏆 Top Customers – Identifies high-value customers.
+🏆 Top Customers – Recognize high-value buyers.
 
-🏷️ Product Insights – Analyzes different coffee types and sizes.
-
-🛒 Filters & Segmentation – Includes options for roast type, loyalty cards, and coffee size.
+🔍 Filters – Segment data by roast type, loyalty card, and coffee size.
 
 
-🛠️ Tools & Technologies
+🛠️ Tools
 
-Power BI – Dashboard visualization.
-
-Excel – Data source for analysis.
+Microsoft Excel – Data processing and dashboard creation.
 
 
 📥 Dataset
 
-The dataset includes:
-
-Order Date – Sales timeline.
-
-Product Name & Type – Different coffee variants.
-
-Sales Revenue – Earnings from transactions.
-
-Customer Information – Identifies top buyers.
-
-Country-wise Sales – Regional performance insights.
+Order Date | Product Type | Sales Revenue | Customers | Country
 
 
 🚀 How to Use
 
-1. Open the Power BI file (.pbix).
+1. Open the Excel file (.xlsx).
 
 
-2. Explore sales trends using interactive filters and slicers.
+2. Use the filters and charts to explore sales insights.
 
 
-3. Modify or replace the dataset in Excel to analyze custom data.
+3. Replace or update the dataset for custom analysis.
 
 
 
-📷 Dashboard Preview
+📷 Preview
 
-![Coffee Sales Dashboard](Add Screenshot URL Here)
-
-📌 Future Enhancements
-
-🔄 Live Data Integration
-
-📊 Profit & Loss Analysis
-
-📍 Geospatial Mapping for Sales
-
+![Dashboard Screenshot](Add Screenshot URL Here)
 
 📩 Contact
 
-For any queries or collaborations, feel free to connect:
-📧 [Your Email] | 🌐 [Your Portfolio Link] | 💼 [LinkedIn]
+📧 [Your Email] | 🌐 [Your Portfolio] | 💼 [LinkedIn]
 
-.
+
+---
+
+Let me know if you need any further edits!
+
