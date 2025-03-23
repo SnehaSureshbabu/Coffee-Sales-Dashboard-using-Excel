@@ -20,6 +20,8 @@ The Coffee Sales Dashboard is an interactive Excel dashboard that provides insig
 
 Microsoft Excel – Data processing and dashboard creation.
 
+**📷 Preview**
+
 ![Coffeesales-dashboard](https://github.com/user-attachments/assets/59fcbe44-d8fa-4188-b5eb-56cd697b0667)
 
 
