@@ -1,5 +1,5 @@
 
-# ☕ Coffee Sales Dashboard
+# BrewLytics - ☕ Coffee Sales Dashboard
 
 📌 Overview
 
