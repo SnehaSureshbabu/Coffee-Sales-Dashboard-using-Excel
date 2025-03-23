@@ -1,4 +1,4 @@
-#BrewLytics
+
 ☕ Coffee Sales Dashboard
 
 📌 Overview
